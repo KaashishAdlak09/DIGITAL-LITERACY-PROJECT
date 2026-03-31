@@ -1,125 +1,71 @@
-📘 Digital Literacy Portfolio
-CSE0001 – Digital Literacy Project
+# Digital Literacy Project
 
-👤 Name: Kaashish Adlak
-🆔 Registration Number: 25MIB10007
-🎓 Branch: Integrated MTech in Bioinformatics and AI
-📅 Year: 1st Year 
-🏫 University: VIT Bhopal University
+## 👤 Student Details
+**Name:** Kaashish Adlak
+**Registration Number:** 25MIB10007 
+**Branch:** Integrated MTech in Bioinformatics and AI 
+**Year:** 1st Year  
 
-📌 Project Overview
+---
 
-This repository contains my Digital Literacy Portfolio, created as part of the CSE0001 – Digital Literacy course.
+## 📌 Project Overview
+This repository contains my Digital Literacy project, which focuses on understanding how to use digital tools effectively, responsibly, and safely. Through this project, I worked on different tasks that helped me build a strong foundation in digital awareness, communication, and online presence.
 
-As a Student Digital Ambassador, this project demonstrates my understanding of:
+---
 
-Digital tools and platforms
-Professional online presence
-Responsible digital communication
-Cyber safety awareness
+## 🧩 Tasks Completed
 
-The project is divided into five tasks, each focusing on a different aspect of digital literacy.
+### 🔹 Task 1 – Digital Literacy Infographic
+Created an infographic using Canva to explain digital literacy, safe internet practices, useful tools, and professional online presence.
 
-📂 Repository Structure
-digital-literacy-project/
-│
-├── README.md
-├── report/
-│   └── Project_Report.pdf
-│
-├── task-1-presentation/
-│   └── infographic.png
-│
-├── task-2-portfolio/
-│   └── (profile screenshots)
-│
-├── task-3-platforms/
-│   └── (coding + Google Form screenshots)
-│
-├── task-4-email-etiquette/
-│   ├── email1.txt
-│   ├── email2.txt
-│   └── social-media-checklist.md
-│
-├── task-5-cybercrime/
-│   ├── casestudy.md
-│   └── prevention-checklist.md
-🧩 Task Summaries
-🖼️ Task 1: Digital Literacy Infographic
-Created using: Canva / Prezi / etc.
-Covers topics like:
-Digital literacy basics
-Safe internet practices
-Professional online presence
-📌 Output: Infographic image in task-1-presentation/
-🌐 Task 2: Student Digital Portfolio
-Platforms created/updated:
-GitHub
-LinkedIn
-(Add others if used)
-Learned importance of building a professional online identity
-📌 Output: Screenshots in task-2-portfolio/
-💻 Task 3: Platforms Exploration
+---
 
-Part A – Coding Platform
+### 🔹 Task 2 – Student Digital Portfolio
+Set up and updated professional profiles on platforms like GitHub,Kaggle and LinkedIn to build an online presence.
 
-Platform used: (HackerRank / CodeChef / etc.)
-Completed beginner challenge
+---
 
-Part B – Google Form
+### 🔹 Task 3 – Coding & Collaboration Platforms
+Solved a beginner-level coding problem on HackerRank and created a Google Form quiz to test digital literacy awareness.
 
-Created a Digital Literacy Awareness Quiz (5 questions)
+---
 
-🔗 Google Form Link: (Paste your link here)
+### 🔹 Task 4 – Email Etiquette & Communication
+Drafted professional emails and created a checklist for responsible social media usage.
 
-📌 Output: Screenshots in task-3-platforms/
+---
 
-📧 Task 4: Email Etiquette
-Wrote two professional emails:
-Assignment extension request
-Internship application email
-Created a Social Media Do’s & Don’ts Checklist
+### 🔹 Task 5 – Cybercrime Awareness
+Prepared a case study on UPI fraud and created a prevention checklist to promote online safety.
 
-📌 Output: Files in task-4-email-etiquette/
+---
 
-🔐 Task 5: Cybercrime Awareness
-Case study topic: (e.g., UPI Fraud / Phishing)
-Explained:
-How the crime works
-Who is targeted
-Consequences
-Created a Prevention Checklist
+## 🔗 Google Form Link
 
-📌 Includes:
 
-National Cyber Crime Portal: https://cybercrime.gov.in
-Helpline: 1930
+---
 
-📌 Output: Files in task-5-cybercrime/
+## 📂 Repository Structure
+digital-literacy-project/ │ ├── task-1-presentation/ ├── task-2-portfolio/ ├── task-3-platforms/ ├── task-4-email-etiquette/ ├── task-5-cybercrime/ └── report/
 
-📄 Project Report
 
-The detailed report for all tasks is available here:
-📁 report/Project_Report.pdf
+---
 
-🎯 Key Learnings
+## 📖 Key Learnings
+- Understood the importance of digital literacy  
+- Learned to use platforms like GitHub, LinkedIn, and HackerRank  
+- Improved professional communication skills  
+- Gained awareness about cybercrime and online safety  
 
-Through this project, I learned:
+---
 
-Importance of digital responsibility
-How to build a professional online presence
-Effective email communication
-Awareness of cyber threats and prevention
-Practical use of digital tools for academics
-⚠️ Academic Integrity
-All work in this repository is original
-Screenshots and content are created by me
-Any references used are properly acknowledged
-🔗 Useful Links
-GitHub: https://github.com
-LinkedIn: https://linkedin.com
-Google Forms: https://forms.google.com
-Cyber Crime Portal: https://cybercrime.gov.in
-⭐ Final Note
+## 📝 Conclusion
+This project helped me understand how to use technology in a smarter and safer way. It also gave me practical experience with tools that will be useful in my academic journey and future career.
 
-This repository represents my journey as a Digital Literacy Ambassador, helping others navigate the digital world safely and professionally.
+---
+
+## 📚 References
+- Canva (for infographic design)  
+- HackerRank (coding practice)  
+- Google Forms (quiz creation)  
+- Official Cyber Crime Portal (cybercrime.gov.in)
